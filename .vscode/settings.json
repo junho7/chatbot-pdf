@@ -1,0 +1,6 @@
+{
+  "pylint.importStrategy": "useBundled",
+  "pylint.path": [
+    "[\"/Users/jun/.local/share/virtualenvs/chatbot-pdf-KI4yJz4m-python/bin/pylint\"]"
+  ]
+}
